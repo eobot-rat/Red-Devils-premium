@@ -24,8 +24,8 @@
   </a>
 </p>
 
-## 💖Sponsorship
-**I am a student passionate about development, but I currently work on a borrowed laptop with limited access (only 2 hours a day). Your sponsorship would help me purchase my own PC, allowing me to release all my projects for free and create high-quality video tutorials to teach others. Thank you for your support!**
+## Donete Us and get Premium version free 
+
 
 *   **BTC**: `bc1q303c2537ka89g6puqtr5au75zx2599p4t06dcp`
 
