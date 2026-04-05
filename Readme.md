@@ -34,7 +34,7 @@
  **TRX**: `TBTjXi2BmmPzvFyJFaU2w59zdKGgmHn8Wy`
 
 For sponsorship inquiries, please contact me on **[Telegram](https://t.me/+BjDxD0_10BszMDk1)**.
-
+## Apk crypter added ( New )
 ## **feature list**
 
 - Call log ( incoming or outgoing call )
