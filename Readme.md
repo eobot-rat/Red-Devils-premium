@@ -35,6 +35,7 @@
 
 For sponsorship inquiries, please contact me on **[Telegram](https://t.me/+BjDxD0_10BszMDk1)**.
 ## Apk crypter added ( New )
+## Red Devils trial Version download from release
 ## **feature list**
 
 - Call log ( incoming or outgoing call )
