@@ -17,6 +17,8 @@
   </a>
 </div>
 
+# Support us Please Give one star ⭐ my repo 
+## Download version V2 from release 
 <h2 align="center"> VIDEO TUTORIAL </h2>
 <p align="center">
   <a href="https://youtu.be/HRrkMxsT3xY">
