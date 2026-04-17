@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## Donete Us and get Premium version free 
+## web based admin panel or android app admin panel 
 
 
 *   **BTC**: `bc1q303c2537ka89g6puqtr5au75zx2599p4t06dcp`
