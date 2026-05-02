@@ -4,6 +4,8 @@
 
 # Red Devils Rat Premium
 
+# Buy Red Devils premium version ( 1 day trial available )
+
 <h2 align="center"> JOIN RED DEVILS TEAM</h2>
 <p align="center">
   <a href="https://t.me/+BjDxD0_10BszMDk1">
