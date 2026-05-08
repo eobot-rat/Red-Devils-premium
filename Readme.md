@@ -6,6 +6,15 @@
 
 # Buy Red Devils premium version ( 1 day trial available )
 
+
+# Selling source code 
+## Red Devils premium 
+
+## Admin panel + serial key panel 
+## Client app or dropper 
+# DM 👇👇👇👇
+
+
 <h2 align="center"> JOIN RED DEVILS TEAM</h2>
 <p align="center">
   <a href="https://t.me/+BjDxD0_10BszMDk1">
