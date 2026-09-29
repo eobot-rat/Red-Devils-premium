@@ -6,8 +6,7 @@
 
 
 
-## Admin panel + serial key panel 
-## Client app or dropper 
+## Contact us for Rat Development and other work 
 # DM 👇👇👇👇
 
 
