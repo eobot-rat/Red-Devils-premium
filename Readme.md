@@ -8,7 +8,10 @@
 
 ## Contact us for Rat Development and other work 
 # DM 👇👇👇👇
-
+<p align="center">
+  <a href="mailto:reddevilspro@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 <h2 align="center"> JOIN RED DEVILS TEAM</h2>
 <p align="center">
