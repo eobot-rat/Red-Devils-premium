@@ -26,6 +26,11 @@
   </a>
 </div>
 
+
+<p align="center">
+  <img src='./assets/IMG_20261027_085352.jpg' style="height:150px;width:450px;" >
+</p>
+
 # Support us Please Give one star ⭐ my repo 
 ## Download version V2 from release 
 <h2 align="center"> VIDEO TUTORIAL </h2>
